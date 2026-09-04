@@ -1,0 +1,63 @@
+---
+title: "cv_flora"
+format: html
+editor: visual
+---
+
+::: {style="text-align:center"}
+<strong>Zhangfan Lyu</strong>
+:::
+
+::: {style="text-align:center"}
+zl2238@cornell.edu | (607)-280-9751 | www.linkedin.com/in/zhangfan-lyu-7656832a8</strong>
+:::
+
+---
+<br>
+
+
+
+## Education
+
+- McGill University, Montreal, Canada [August, 2021 - June, 2025]{style="float:right"}
+  - *BSc in Nutritional Sciences*
+- Cornell University, Ithaca, USA [August, 2025 - Present]{style="float:right"}
+  - *Master in Nutritional Sciences, minor in Microbiology*
+  - Advisor: Dr. Kimberly O'Brien
+
+## Clinical Experience
+
+**Clinical Trainee** May 2024 – July 2024
+
+*The Second Affiliated Hospital Zhejiang University School of Medicine, Department of Nutrition*
+
+Mentor: Dr. Pianhong Zhang
+
+- Delivered inpatient and outpatient nutrition services, offering personalized dietary advice and treatment plans for patients with conditions such as diabetes, dyslipidemia, and other chronic diseases. Utilized bioelectrical impedance analysis (BIA) to assess body composition and incorporated biochemical test results to tailor recommendations.
+
+- Gained experience in hospital food service operations, including meal preparation for special diets, and participated in clinical consultations to adjust dietary programs based on patient-specific factors like age, gender, and lifestyle.
+
+## Research Experience 
+
+**Research Assisstant** 
+
+*Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences* Mentor: Dr. Xu Lin (June, 2023 - August, 2023)
+
+- Contributed to the Lifestyle Interventions on Metabolic Homeostasis project by processing blood samples, operating a human metabolic chamber, and utilizing DXA to assess muscle fat and bone density, demonstrating technical skills in monitoring metabolic health metrics. 
+
+Mentor: Dr. Xu Lin (July 2024 – August 2024)
+
+- Conducted a comparative analysis of the Traditional Jiangnan Diet vs. the Mediterranean Diet on weight loss, utilizing Excel and R for data collection, organization, and analysis, with a focus on macronutrient composition and oil intake. 
+
+*McGill University, School of Human Nutrition, Clinical Nutrition Research Unit *
+Mentor: Dr. Daiva Nielsen (September 2024 – April 2025) 
+
+- Contributed to a research project investigating how genetics and environmental factors, including social media exposure, influence dietary behavior. 
+
+- Assisted in analyzing how visual food stimuli on platforms like Instagram affect brain responses and impulsive eating tendencies. 
+
+- Supported efforts to identify environmental-genetic interactions that contribute to overeating, with implications for personalized nutrition interventions. 
+
+- Helped translate research findings into practical strategies for improving dietary treatment plans tailored to individual patient profiles. 
+
+## Skills or interests
